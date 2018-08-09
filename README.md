@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Hello, welcome to maps for noobs!
+
+Since you`ve come here you must be quite the noob.
+
 You can use the [editor on GitHub](https://github.com/ekkodrid/MapsForNoobs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
